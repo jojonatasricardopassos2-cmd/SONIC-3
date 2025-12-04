@@ -1,0 +1,5 @@
+{
+  "name": "SONIC",
+  "description": "A high-speed platformer inspired by 16-bit classics. Features momentum physics, loops, boss battles, and AI-powered villain dialogue.",
+  "requestFramePermissions": []
+}
